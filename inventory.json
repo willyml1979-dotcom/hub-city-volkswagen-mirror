@@ -1,7 +1,7 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-10-26T03:44:52",
-  "vehicle_count": 125,
+  "generated_at": "2026-10-26T03:52:26",
+  "vehicle_count": 124,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -59,6 +59,22 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/699a72643d84.html",
       "condition": "new",
       "price": 36012.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Highline 4motionin Prince George",
+      "vin": "3VV4C7B27TM030132",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/77028803886f.html",
+      "condition": "new",
+      "price": 44312.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Prince George",
+      "vin": "3VVER7RM5TM056058",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/4f996b8302e6.html",
+      "condition": "new",
+      "price": 45412.0,
       "price_currency": "CAD"
     },
     {
@@ -185,6 +201,30 @@
       "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
       "vin": "3VVER7RM3TM160063",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/30ad55c29b4c.html",
+      "condition": "new",
+      "price": 45412.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
+      "vin": "3VVER7RM7TM161233",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/e6d8d22be831.html",
+      "condition": "new",
+      "price": 45412.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
+      "vin": "3VVMR7RM3TM164366",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/9c95d5219145.html",
+      "condition": "new",
+      "price": 46912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
+      "vin": "3VVER7RM1TM157128",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/8bc21dd1aa08.html",
       "condition": "new",
       "price": 45412.0,
       "price_currency": "CAD"
@@ -1157,72 +1197,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 41912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU1TM070962",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f0788a9f4c74.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 35512.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos Highline 4motionin Prince George",
-      "vin": "3VV4C7B27TM030132",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/77028803886f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 44312.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4motionin Prince George",
-      "vin": "3VVER7RM5TM056058",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/4f996b8302e6.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45412.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortlinein Prince George",
-      "vin": "3VVER7RM7TM161233",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/e6d8d22be831.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45412.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortlinein Prince George",
-      "vin": "3VVMR7RM3TM164366",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/9c95d5219145.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 46912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortlinein Prince George",
-      "vin": "3VVER7RM1TM157128",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/8bc21dd1aa08.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45412.0,
       "price_currency": "CAD"
     },
     {
