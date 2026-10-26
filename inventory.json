@@ -1,10 +1,26 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-10-25T18:35:08",
-  "vehicle_count": 127,
+  "generated_at": "2026-10-25T18:39:40",
+  "vehicle_count": 125,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Volkswagen Golf GTI Autoin Prince George",
+      "vin": "WVWNE7CD1TW253859",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/00f250cd42ae.html",
+      "condition": "new",
+      "price": 46912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Golf GTI Basein Prince George",
+      "vin": "WVWME7CD4TW277052",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/716793cb360c.html",
+      "condition": "new",
+      "price": 42712.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Volkswagen Jetta Comfortlinein Prince George",
       "vin": "3VWSW7BU0TM063467",
@@ -35,6 +51,38 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/554ea9ccfa2f.html",
       "condition": "new",
       "price": 36012.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU0TM071634",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/699a72643d84.html",
+      "condition": "new",
+      "price": 36012.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Prince George",
+      "vin": "3VVMR7RM2TM066512",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/04788e9cf4b3.html",
+      "condition": "new",
+      "price": 46912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendline 4motionin Prince George",
+      "vin": "3VVBR7RM7TM076427",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/0a422f8b3095.html",
+      "condition": "new",
+      "price": 41912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendline 4motionin Prince George",
+      "vin": "3VVBR7RM3TM081317",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/11d829183d09.html",
+      "condition": "new",
+      "price": 41912.0,
       "price_currency": "CAD"
     },
     {
@@ -135,10 +183,58 @@
     },
     {
       "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
+      "vin": "3VVER7RM3TM160063",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/30ad55c29b4c.html",
+      "condition": "new",
+      "price": 45412.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
       "vin": "3VVMR7RM0TM178497",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/dc17ccfc236b.html",
       "condition": "new",
       "price": 46912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen GLI Basein Prince George",
+      "vin": "3VW2M7BU2VM005160",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f5549c84ac05.html",
+      "condition": "new",
+      "price": 40612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU2VM003600",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ff44a54183dd.html",
+      "condition": "new",
+      "price": 35812.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU8VM005724",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/6699ff58b7a4.html",
+      "condition": "new",
+      "price": 35812.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU3VM004044",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c5be9268c599.html",
+      "condition": "new",
+      "price": 36312.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU9VM003982",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c85aa8e8aae3.html",
+      "condition": "new",
+      "price": 35812.0,
       "price_currency": "CAD"
     },
     {
@@ -1064,50 +1160,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI Autoin Prince George",
-      "vin": "WVWNE7CD1TW253859",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/00f250cd42ae.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 46912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Golf GTI Basein Prince George",
-      "vin": "WVWME7CD4TW277052",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/716793cb360c.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 42712.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU6TM063280",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/b0ca979997e1.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 36012.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU0TM070421",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/e56de0ef177f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 35512.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Jetta Comfortlinein Prince George",
       "vin": "3VWSW7BU1TM070962",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f0788a9f4c74.html",
@@ -1116,17 +1168,6 @@
       "model": "Jetta",
       "condition": "new",
       "price": 35512.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU0TM071634",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/699a72643d84.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 36012.0,
       "price_currency": "CAD"
     },
     {
@@ -1144,50 +1185,6 @@
       "name": "2026 Volkswagen Tiguan Comfortline 4motionin Prince George",
       "vin": "3VVER7RM5TM056058",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/4f996b8302e6.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 45412.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline 4motionin Prince George",
-      "vin": "3VVMR7RM2TM066512",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/04788e9cf4b3.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 46912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Trendline 4motionin Prince George",
-      "vin": "3VVBR7RM7TM076427",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/0a422f8b3095.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 41912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Trendline 4motionin Prince George",
-      "vin": "3VVBR7RM3TM081317",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/11d829183d09.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 41912.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortlinein Prince George",
-      "vin": "3VVER7RM3TM160063",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/30ad55c29b4c.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -1281,61 +1278,6 @@
       "model": "Taos",
       "condition": "new",
       "price": 37012.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen GLI Basein Prince George",
-      "vin": "3VW2M7BU2VM005160",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f5549c84ac05.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "GLI",
-      "condition": "new",
-      "price": 40612.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU2VM003600",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ff44a54183dd.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 35812.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU8VM005724",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/6699ff58b7a4.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 35812.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU3VM004044",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c5be9268c599.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 36312.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortlinein Prince George",
-      "vin": "3VWSW7BU9VM003982",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c85aa8e8aae3.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 35812.0,
       "price_currency": "CAD"
     }
   ]
