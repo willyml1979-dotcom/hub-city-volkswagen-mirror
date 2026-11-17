@@ -1,7 +1,7 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-11-16T20:33:19",
-  "vehicle_count": 134,
+  "generated_at": "2026-11-16T21:37:15",
+  "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -126,6 +126,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2011 for salein Prince George",
+      "vin": "WVGBV7AX5BW532936",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/95cbe27d09be.html",
+      "condition": "new",
+      "price": 14595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2012 for salein Prince George",
+      "vin": "WVGBV7AX6CW573979",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/170ee393b9fb.html",
+      "condition": "new",
+      "price": 15595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf 2017 for salein Prince George",
+      "vin": "3VW017AU0HM538839",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/49a2a0b58feb.html",
+      "condition": "new",
+      "price": 16595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2021 for salein Prince George",
+      "vin": "1V2BR2CA2MC536174",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/394442331daa.html",
+      "condition": "new",
+      "price": 35595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2021 for salein Prince George",
+      "vin": "1V2BE2CA9MC228382",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f1fd522a7b67.html",
+      "condition": "new",
+      "price": 28595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2021 for salein Prince George",
+      "vin": "3VV0B7AX7MM086894",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ddb177358c9f.html",
+      "condition": "new",
+      "price": 23595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2008 Toyota Highlander Basein Prince George",
       "vin": "JTEES41A082002941",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/16b47cbaec8d.html",
@@ -159,17 +207,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Volkswagen Tiguan ",
-      "vin": "WVGBV7AX5BW532936",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/95cbe27d09be.html",
-      "year": 2011,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 14595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012 Volkswagen Tiguan Highlinein Prince George",
       "vin": "WVGBV7AX6CW573979",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/1e2244773279.html",
@@ -177,17 +214,6 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 15595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Volkswagen Tiguan ",
-      "vin": "WVGBV7AX6CW573979",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/170ee393b9fb.html",
-      "year": 2012,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
       "price": 15595.0,
       "price_currency": "CAD"
     },
@@ -233,17 +259,6 @@
       "model": "Passat",
       "condition": "used",
       "price": 18595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Golf ",
-      "vin": "3VW017AU0HM538839",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/49a2a0b58feb.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "new",
-      "price": 16595.0,
       "price_currency": "CAD"
     },
     {
@@ -434,39 +449,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2LR2CA1MC517670",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/394442331daa.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 28595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2BE2CA9MC228382",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f1fd522a7b67.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 28595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Tiguan ",
-      "vin": "3VV0B7AX7MM086894",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ddb177358c9f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 23595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Jetta Highlinein Prince George",
       "vin": "3VWGM7BUXNM031561",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/2853617773ad.html",
@@ -475,17 +457,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 21595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2FE2CA2NC220451",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/29a50347ed71.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 34595.0,
       "price_currency": "CAD"
     },
     {
@@ -1214,6 +1185,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Tiguan Comfortline R-Linein Prince George",
+      "vin": "3VVGR7RM6TM140737",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/6d6379d5a2d6.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 48912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortline R-Linein Prince George",
+      "vin": "3VVGR7RM9TM134866",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f787d29c8baa.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 48912.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Tiguan Comfortlinein Prince George",
       "vin": "3VVER7RM4TM155566",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/d26db76ffe4e.html",
@@ -1390,6 +1383,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Prince George",
+      "vin": "3VWSW7BU2VM018842",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/126e10eee4b7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36012.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Taos Comfortline Blackin Prince George",
       "vin": "3VV2D7B24VM010315",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c45b07904db0.html",
@@ -1397,7 +1401,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 42312.0,
+      "price": 42512.0,
       "price_currency": "CAD"
     },
     {
@@ -1408,7 +1412,18 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 37012.0,
+      "price": 37212.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Blackin Prince George",
+      "vin": "3VV2D7B20VM025555",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/6897434a1afd.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 42512.0,
       "price_currency": "CAD"
     },
     {
@@ -1419,7 +1434,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 47212.0,
+      "price": 47412.0,
       "price_currency": "CAD"
     },
     {
