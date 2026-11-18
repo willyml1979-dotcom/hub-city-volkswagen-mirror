@@ -1,10 +1,18 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-11-17T19:36:10",
-  "vehicle_count": 127,
+  "generated_at": "2026-11-18T05:04:39",
+  "vehicle_count": 130,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Toyota Highlander 2008 for salein Prince George",
+      "vin": "JTEES41A082002941",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/0ca0a6ee07ba.html",
+      "condition": "used",
+      "price": 16595.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Volkswagen Tiguan 2011 for salein Prince George",
       "vin": "WVGBV7AX5BW532936",
@@ -19,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/170ee393b9fb.html",
       "condition": "used",
       "price": 15595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-3 2017 for salein Prince George",
+      "vin": "JM1DKFD71H0163709",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e165316b4baa.html",
+      "condition": "used",
+      "price": 17595.0,
       "price_currency": "CAD"
     },
     {
@@ -102,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2022 for salein Prince George",
+      "vin": "1V2FR2CA3NC539992",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/721c420965cf.html",
+      "condition": "used",
+      "price": 39595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi A5 2023 for salein Prince George",
       "vin": "WAUEACF59PA001589",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/9b708ad77fe8.html",
@@ -134,6 +158,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Taos 2024 for salein Prince George",
+      "vin": "3VV4X7B27RM090523",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/9d880b174f20.html",
+      "condition": "used",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Tiguan 2024 for salein Prince George",
       "vin": "3VVFB7AX5RM047593",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/7061d8ef9720.html",
@@ -163,6 +195,30 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d15bb6d0fab4.html",
       "condition": "used",
       "price": 64595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Prince George",
+      "vin": "3VVUC7B2XSM063253",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/0c3be23c8272.html",
+      "condition": "used",
+      "price": 29595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2026 for salein Prince George",
+      "vin": "2C4RC1GG3TR264217",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e94a635f74b6.html",
+      "condition": "used",
+      "price": 49595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2026 for salein Prince George",
+      "vin": "1V2FN2CAXTC507002",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d89bd1231a7d.html",
+      "condition": "used",
+      "price": 59595.0,
       "price_currency": "CAD"
     },
     {
@@ -281,17 +337,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Toyota Highlander ",
-      "vin": "JTEES41A082002941",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/0ca0a6ee07ba.html",
-      "year": 2008,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 16595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Volkswagen Tiguan Trendlinein Prince George",
       "vin": "WVGBV7AX5BW532936",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/dddb963a691f.html",
@@ -325,18 +370,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Mazda CX-3 ",
-      "vin": "JM1DKFD71H0163709",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e165316b4baa.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "CX-3",
-      "condition": "used",
-      "price": 17595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Golf Unknownin Prince George",
+      "name": "2017 Volkswagen Golf Comfortlinein Prince George",
       "vin": "3VW017AU0HM538839",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/8625ff4a2175.html",
       "year": 2017,
@@ -490,6 +524,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Volkswagen Atlas Execlinein Prince George",
+      "vin": "1V2FR2CA3NC539992",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/33ed9b960a39.html",
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 39595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Audi A5 Technikin Prince George",
       "vin": "WAUEACF59PA001589",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/c85ba9cae0cd.html",
@@ -556,17 +601,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVUX7B25RM100501",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/9d880b174f20.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 26595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Tiguan Trendlinein Prince George",
       "vin": "3VVFB7AX5RM047593",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/ef4de15c0659.html",
@@ -597,6 +631,17 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 30195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortline R-Linein Prince George",
+      "vin": "3VV8B7AX5RM102701",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e33008629c04.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 35595.0,
       "price_currency": "CAD"
     },
     {
@@ -666,17 +711,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B2XSM063253",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/0c3be23c8272.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 29595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chrysler Pacifica Limitedin Prince George",
       "vin": "2C4RC1GG3TR264217",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/2070d2626864.html",
@@ -688,31 +722,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chrysler Pacifica ",
-      "vin": "2C4RC1GG3TR264217",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e94a635f74b6.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 49595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Atlas Unknownin Prince George",
       "vin": "1V2FN2CAXTC507002",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/e393005ffb5f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 59595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas ",
-      "vin": "1V2FN2CAXTC507002",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d89bd1231a7d.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
