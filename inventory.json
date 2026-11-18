@@ -1,7 +1,7 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-11-18T05:04:39",
-  "vehicle_count": 130,
+  "generated_at": "2026-11-18T05:18:01",
+  "vehicle_count": 132,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -733,58 +733,57 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas ",
+      "name": "2026 Volkswagen Atlasin Prince George",
       "vin": "1V2BN2CA2TC542695",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/f368bde67b79.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Prince George",
       "condition": "new",
-      "price": 65112.0,
+      "price": 53598.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2BC2CA8TC235764",
+      "name": "2026 Volkswagen Atlas Cross Sportin Prince George",
+      "vin": "1V2LC2CA8TC221562",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/8cd95160c665.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
+      "model": "Atlas",
       "condition": "new",
-      "price": 62512.0,
+      "price": 52498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI ",
-      "vin": "WVWME7CD4TW277052",
+      "name": "2026 Volkswagen Golf GTIin Prince George",
+      "vin": "WVWNE7CD1TW253859",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/8dc71c3f5fac.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTI",
+      "model": "Golf",
       "condition": "new",
-      "price": 42712.0,
+      "price": 39498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf R ",
-      "vin": "WVWCF7CD0TW240895",
+      "name": "2026 Volkswagen Golf Rin Prince George",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/576dde38597b.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R",
+      "model": "Golf",
       "condition": "new",
-      "price": 59412.0,
+      "price": 52198.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Jetta ",
+      "name": "2026 Volkswagen Jettain Prince George",
       "vin": "3VWSW7BU0TM063467",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/2a07e20dd5d5.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta",
+      "model": "Jettain Prince George",
       "condition": "new",
-      "price": 36012.0,
+      "price": 29198.0,
       "price_currency": "CAD"
     },
     {
@@ -798,25 +797,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos ",
+      "name": "2026 Volkswagen Taosin Prince George",
       "vin": "3VV4C7B27TM030132",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/0c7b6bf899f2.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Prince George",
       "condition": "new",
-      "price": 44312.0,
+      "price": 32423.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan ",
+      "name": "2026 Volkswagen Tiguanin Prince George",
       "vin": "3VVBR7RM7TM076427",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/b4aae7ca0627.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Prince George",
       "condition": "new",
-      "price": 41912.0,
+      "price": 39348.0,
       "price_currency": "CAD"
     },
     {
@@ -1139,47 +1138,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Atlas ",
-      "vin": "1V2F53DHXVC502340",
+      "name": "2027 Volkswagen Atlasin Prince George",
+      "vin": "1V2D53DH4VC502759",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/0bb78b302e4b.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Prince George",
       "condition": "new",
-      "price": 68412.0,
+      "price": 56398.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen GLI ",
+      "name": "2027 Volkswagen Jetta GLIin Prince George",
       "vin": "3VW2M7BU2VM005160",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/388ce7e025b4.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "GLI",
+      "model": "Jetta",
       "condition": "new",
-      "price": 40612.0,
+      "price": 37898.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Jetta ",
+      "name": "2027 Volkswagen Jettain Prince George",
       "vin": "3VWSW7BU2VM003600",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/1ed6f0576b3b.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta",
+      "model": "Jettain Prince George",
       "condition": "new",
-      "price": 35812.0,
+      "price": 31998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Taos ",
+      "name": "2027 Volkswagen Taosin Prince George",
       "vin": "3VV8D7B23VM019260",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/73b7d22999ba.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Prince George",
       "condition": "new",
-      "price": 37012.0,
+      "price": 32923.0,
       "price_currency": "CAD"
     },
     {
@@ -1293,6 +1292,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Taos Comfortlinein Prince George",
+      "vin": "3VVUD7B27VM030289",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/c4747974bd1f.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40812.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortlinein Prince George",
+      "vin": "3VVUD7B23VM030032",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/af18a60e1e1b.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40812.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Tiguan Comfortlinein Prince George",
       "vin": "3VVMR7RM0VM000995",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ecd4d69d6315.html",
@@ -1311,7 +1332,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45712.0,
+      "price": 45912.0,
       "price_currency": "CAD"
     }
   ]
