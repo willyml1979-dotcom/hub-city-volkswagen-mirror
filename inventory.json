@@ -1,7 +1,7 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-11-18T13:36:57",
-  "vehicle_count": 132,
+  "generated_at": "2026-11-18T13:43:39",
+  "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -246,6 +246,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2019 for salein Prince George",
+      "vin": "1C6RR7FGXKS595013",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/7dc7e6c2ba73.html",
+      "condition": "new",
+      "price": 14595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2019 for salein Prince George",
+      "vin": "1C6RR7FGXKS595013",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/2d386027bc92.html",
+      "condition": "new",
+      "price": 14595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Atlas 2021 for salein Prince George",
       "vin": "1V2BR2CA2MC536174",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/394442331daa.html",
@@ -267,6 +283,14 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/ddb177358c9f.html",
       "condition": "new",
       "price": 23595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi A5 2023 for salein Prince George",
+      "vin": "WAUEACF59PA001589",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/9b708ad77fe8.html",
+      "condition": "new",
+      "price": 44595.0,
       "price_currency": "CAD"
     },
     {
@@ -436,28 +460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 ",
-      "vin": "1C6SRFLT1KN844035",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/7dc7e6c2ba73.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 39595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 Classic ",
-      "vin": "1C6RR7FGXKS595013",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/2d386027bc92.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "new",
-      "price": 14595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Volkswagen Atlas Trendlinein Prince George",
       "vin": "1V2HR2CA6KC570108",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/446125847b85.html",
@@ -542,17 +544,6 @@
       "make": "Audi",
       "model": "A5",
       "condition": "used",
-      "price": 44595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Audi A5 ",
-      "vin": "WAUEACF59PA001589",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/9b708ad77fe8.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "A5",
-      "condition": "new",
       "price": 44595.0,
       "price_currency": "CAD"
     },
@@ -1189,7 +1180,7 @@
       "make": "Volkswagen",
       "model": "GLI",
       "condition": "new",
-      "price": 40612.0,
+      "price": 40812.0,
       "price_currency": "CAD"
     },
     {
@@ -1200,7 +1191,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35812.0,
+      "price": 36012.0,
       "price_currency": "CAD"
     },
     {
@@ -1211,7 +1202,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35812.0,
+      "price": 36012.0,
       "price_currency": "CAD"
     },
     {
@@ -1222,7 +1213,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 36312.0,
+      "price": 36512.0,
       "price_currency": "CAD"
     },
     {
@@ -1233,7 +1224,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35812.0,
+      "price": 36012.0,
       "price_currency": "CAD"
     },
     {
@@ -1333,6 +1324,17 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 45912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendlinein Prince George",
+      "vin": "3VVBR7RM8VM018314",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/b1ffbb65db34.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 42412.0,
       "price_currency": "CAD"
     }
   ]
