@@ -1,6 +1,6 @@
 # Hub City Volkswagen
 
- dealership in Prince George. AI-readable inventory mirror, about 137 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 131 vehicles.
 
 - Official website: https://www.hubcitymotors.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/

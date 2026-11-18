@@ -1,7 +1,7 @@
 {
   "dealership": "Hub City Volkswagen",
-  "generated_at": "2026-11-16T21:37:15",
-  "vehicle_count": 137,
+  "generated_at": "2026-11-17T18:53:39",
+  "vehicle_count": 131,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -38,11 +38,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "RAM 1500 2019 for salein Prince George",
-      "vin": "1C6SRFLT1KN844035",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/7dc7e6c2ba73.html",
+      "name": "Volkswagen Golf R 2018 for salein Prince George",
+      "vin": "WVWWF7AU3JW185310",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/cd13a76d14a6.html",
       "condition": "used",
-      "price": 39595.0,
+      "price": 23595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2018 for salein Prince George",
+      "vin": "3VV4B7AX2JM036403",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/be5e50a3f167.html",
+      "condition": "used",
+      "price": 14595.0,
       "price_currency": "CAD"
     },
     {
@@ -51,6 +59,14 @@
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/2d386027bc92.html",
       "condition": "used",
       "price": 14595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2019 for salein Prince George",
+      "vin": "1V2HR2CA6KC570108",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/efa213622304.html",
+      "condition": "used",
+      "price": 24595.0,
       "price_currency": "CAD"
     },
     {
@@ -70,14 +86,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Volkswagen Atlas 2021 for salein Prince George",
-      "vin": "1V2BR2CA2MC536174",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/394442331daa.html",
-      "condition": "used",
-      "price": 35595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Volkswagen Atlas Cross Sport 2021 for salein Prince George",
       "vin": "1V2BE2CA9MC228382",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/f1fd522a7b67.html",
@@ -94,11 +102,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Volkswagen Jetta 2022 for salein Prince George",
-      "vin": "3VWGM7BUXNM031561",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/ed702516a981.html",
+      "name": "Audi A5 2023 for salein Prince George",
+      "vin": "WAUEACF59PA001589",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/9b708ad77fe8.html",
       "condition": "used",
-      "price": 21595.0,
+      "price": 44595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein Prince George",
+      "vin": "3VV8B7AX9PM012402",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/16f9863d7099.html",
+      "condition": "used",
+      "price": 34595.0,
       "price_currency": "CAD"
     },
     {
@@ -118,11 +134,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2024 for salein Prince George",
+      "vin": "3VVFB7AX5RM047593",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/7061d8ef9720.html",
+      "condition": "used",
+      "price": 29595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q3 2025 for salein Prince George",
+      "vin": "WA1AUCF33S1075455",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/5d1394b66276.html",
+      "condition": "used",
+      "price": 37595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Atlas 2025 for salein Prince George",
       "vin": "1V2LR2CAXSC560997",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/ddeb030c0fc4.html",
       "condition": "used",
       "price": 47595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Prince George",
+      "vin": "WVG6YVEB2SH025699",
+      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d15bb6d0fab4.html",
+      "condition": "used",
+      "price": 64595.0,
       "price_currency": "CAD"
     },
     {
@@ -273,17 +313,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Golf R ",
-      "vin": "WVWWF7AU3JW185310",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/cd13a76d14a6.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 23595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Volkswagen Tiguan Highlinein Prince George",
       "vin": "3VV4B7AX2JM036403",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/135e5cc4546e.html",
@@ -303,28 +332,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 22595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Tiguan ",
-      "vin": "3VV4B7AX2JM036403",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/be5e50a3f167.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 14595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 Sportin Prince George",
-      "vin": "1C6SRFLT1KN844035",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/b8172cff16a7.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 39595.0,
       "price_currency": "CAD"
     },
     {
@@ -372,17 +379,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Atlas ",
-      "vin": "1V2HR2CA6KC570108",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/efa213622304.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 24595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Volkswagen Atlas Cross Sport Execlinein Prince George",
       "vin": "1V2NE2CA2LC225058",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d2c030310ccc.html",
@@ -402,17 +398,6 @@
       "model": "Crosstrek",
       "condition": "used",
       "price": 26595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Atlas Highlinein Prince George",
-      "vin": "1V2BR2CA2MC536174",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/f9f492c37d9f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 35595.0,
       "price_currency": "CAD"
     },
     {
@@ -446,17 +431,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 28595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Jetta Highlinein Prince George",
-      "vin": "3VWGM7BUXNM031561",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/2853617773ad.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 21595.0,
       "price_currency": "CAD"
     },
     {
@@ -495,17 +469,6 @@
     {
       "name": "2023 Audi A5 ",
       "vin": "WAUEACF59PA001589",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/9b708ad77fe8.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "A5",
-      "condition": "used",
-      "price": 44595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Audi A5 ",
-      "vin": "WAUEACF59PA001589",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/9b708ad77fe8.html",
       "year": 2023,
       "make": "Audi",
@@ -515,23 +478,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Tiguan Unknownin Prince George",
+      "name": "2023 Volkswagen Tiguan Comfortline R-Line Black Editionin Prince George",
       "vin": "3VV8B7AX9PM012402",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/684f21e9280b.html",
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 34595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX9PM012402",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/16f9863d7099.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguan Comfortline R-Line Black Editionin Prince George",
       "condition": "used",
       "price": 34595.0,
       "price_currency": "CAD"
@@ -627,17 +579,6 @@
     {
       "name": "2024 Volkswagen Tiguan ",
       "vin": "3VVFB7AX5RM047593",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/7061d8ef9720.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VVFB7AX5RM047593",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/new/7061d8ef9720.html",
       "year": 2024,
       "make": "Volkswagen",
@@ -661,17 +602,6 @@
       "name": "2025 Audi Q3 Basein Prince George",
       "vin": "WA1AUCF33S1075455",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/0ac114ed2f7d.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 37595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1AUCF33S1075455",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/5d1394b66276.html",
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
@@ -716,17 +646,6 @@
       "name": "2025 Volkswagen ID. Buzz 1st Editionin Prince George",
       "vin": "WVG6YVEB2SH025699",
       "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/abaaa4d71890.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "used",
-      "price": 64595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen ID. Buzz ",
-      "vin": "WVG6YVEB2SH025699",
-      "url": "https://willyml1979-dotcom.github.io/hub-city-volkswagen-mirror/used/d15bb6d0fab4.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "ID. Buzz",
